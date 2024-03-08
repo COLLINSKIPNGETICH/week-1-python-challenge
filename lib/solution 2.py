@@ -15,7 +15,3 @@ def solution(A):
     
     return max_sum
 
-# Example usage:
-print(solution([51, 71, 17, 42]))  # Output: 93
-print(solution([42, 33, 60]))  # Output: 102
-print(solution([51, 32, 43]))  # Output: -1
